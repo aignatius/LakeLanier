@@ -1,6 +1,6 @@
 # Lake Sidney Lanier Environmental Analysis (Google Earth Engine)
 
-This repository contains a collection of Google Earth Engine (GEE) scripts for analyzing environmental properties of Lake Sidney Lanier in Georgia, USA. The goal is to provide reproducible workflows for monitoring water quality, land use changes, and other ecological indicators using satellite data.
+University of North Georgia research under the direction of Dr. Amber Ignatius. This repository contains a collection of Google Earth Engine (GEE) scripts for analyzing environmental properties of Lake Sidney Lanier in Georgia, USA. The goal is to provide reproducible workflows for monitoring water quality, land use changes, and other ecological indicators using satellite data.
 
 ## Overview
 
